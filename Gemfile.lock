@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activemodel (3.0.20)
+      activesupport (= 3.0.20)
+      builder (~> 2.1.2)
+      i18n (~> 0.5.0)
+    activerecord (3.0.20)
+      activemodel (= 3.0.20)
+      activesupport (= 3.0.20)
+      arel (~> 2.0.10)
+      tzinfo (~> 0.3.23)
+    activesupport (3.0.20)
+    arel (2.0.10)
+    builder (2.1.2)
+    i18n (0.5.4)
+    tzinfo (0.3.52)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activerecord (~> 3.0.0)
+
+BUNDLED WITH
+   1.14.2
