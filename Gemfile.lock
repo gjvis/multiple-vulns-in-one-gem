@@ -14,13 +14,13 @@ GEM
     arel (2.0.10)
     builder (2.1.2)
     i18n (0.5.4)
-    tzinfo (0.3.52)
+    tzinfo (0.3.61)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  activerecord (~> 3.0.0)
+  activerecord (~> 3.0.20)
 
 BUNDLED WITH
-   1.14.2
+   1.17.3
